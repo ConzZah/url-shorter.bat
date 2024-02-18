@@ -1,7 +1,7 @@
-# URL-Shorter.bat [v0.2.2x]
+# URL-Shorter.bat [v0.2.3]
 ### Batch Script that uses cURL to create Shortlinks and QR-Codes.
 
-![image](https://github.com/ConzZah/url-shorter.bat/assets/69615452/c2902b79-ebec-4412-8a47-5c683d756f32)
+![image](https://github.com/ConzZah/url-shorter.bat/assets/69615452/bb2a5fc2-b132-4409-94ab-e8cff1f0ac8e)
 
 # Usage: 
 
